@@ -1,0 +1,28 @@
+input unit
+software/computer Program
+assembly Language
+output
+memory and secondary storage unit
+Arithmetic and logic unit
+Arithmetic and logic unit
+high level language
+machine language
+cpu
+java
+Java SE,Java EE and java ME
+computer bandwidth
+assembler
+creating a program,compiling the program, loading a program, bytecode verification, execution
+IDE-integrated Development Environment
+java
+JMV
+JMV's class loader
+bytecode verifier
+
+JIT complier translates the bytecodes into the computer’s machine language. When the JVM encounters these compiled parts
+again, the faster machine-language code executes. Thus programs actually go through two compilation
+phases—one in which Java code is translated into bytecodes (for portability across JVMs on
+different computer platforms) and a second in which, during execution, the bytecodes are
+translated into machine language for the computer on which the program executes.
+
+
